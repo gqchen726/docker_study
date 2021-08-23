@@ -1,0 +1,8 @@
+{
+    "name": "docker_study",
+    "description": "docker入门项目",
+    "keywords": ["docker"],
+    "website": "",
+    "repository": "",
+    "stack": "container"
+}
