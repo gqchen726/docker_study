@@ -4,5 +4,11 @@
     "keywords": ["docker"],
     "website": "",
     "repository": "",
-    "stack": "container"
+    "stack": "container",
+    "env": {
+        "port": {
+          "description": "端口",
+          "value": "3000"
+        }
+    }
 }
